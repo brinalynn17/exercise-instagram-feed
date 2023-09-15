@@ -42,6 +42,13 @@ span{
     align-items: center;
     background-color: burlywood;
     width: 575px;
+}
+
+.vidpost-img{
+    justify-content: space-around;
+    align-items: center;
+    background-color: burlywood;
+    width: 575px;
     height: 450px;
 }
 
